@@ -15,8 +15,7 @@ Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
 
-- [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
-- [Picasso](https://square.github.io/picasso/) - Image loading and caching library for Android
+- [Picasso](https://square.github.io/picasso/) - A powerful image downloading and caching library for Android
 
 ## License
 
